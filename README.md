@@ -21,6 +21,10 @@
   <a href="https://google.com">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </a>
+    </a>
+  <a href="https://google.com">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </a>
 </div>
 
 
