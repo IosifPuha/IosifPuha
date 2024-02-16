@@ -25,12 +25,16 @@
   />
   </a>
 
-  <img
+<a href="https://github.com/dotnet/csharplang">
+    <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
     alt="csharp"
     width="40"
     height="40"
   />
+</a>
+
+
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
