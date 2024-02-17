@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **machine learning** as an autodidact
 
-- 👨‍💻 All of my projects are available at [iosifpuha.online](iosifpuha.online)
+- 👨‍💻 Check out my projects at [iosifpuha.online](iosifpuha.online)
 
-- 📫 How to reach me **iosifpuha@yahoo.com**
+- 📫 Send me an email **iosifpuha@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
