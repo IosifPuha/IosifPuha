@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Work-Track](https://worktrack-app.com/)
 
-- 🌱 I’m currently learning **machine learning as an autodidact**
+- 🌱 I’m currently learning **machine learning** as an autodidact
 
 - 👨‍💻 All of my projects are available at [iosifpuha.online](iosifpuha.online)
 
