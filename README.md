@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/iosifpetrupuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iosifpetrupuha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iosif-petru-puha-71789226b" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/1920px-LinkedIn_2021.svg.png](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)" alt="iosifpetrupuha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iosif-petru-puha-71789226b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="iosifpetrupuha" height="30" width="40" /></a>
 </p>
 
 
