@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iosif</h1>
 <h3 align="center">A passionate developer based in Italy</h3>
 
-- 🔭 I’m currently working on [Work-Track](https://worktrack-app.com/)
-
 - 🌱 I’m currently learning **machine learning** as an autodidact
 
-- 👨‍💻 Check out my projects at [iosifpuha.online](iosifpuha.online)
+- 👨‍💻 Check out my projects here on GitHub
 
 - 📫 Send me an email **iosifpuha@yahoo.com**
 
